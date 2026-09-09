@@ -1,0 +1,14 @@
+Documento sintético para demonstração local. Não representa um contribuinte real.
+Contribuinte: EMPRESA SINTETICA LTDA
+CNPJ: 00.000.000/0000-00
+Inscrição Estadual: 000.000.000.000
+Ano Base: 2025
+Município: CIDADE EXEMPLO UF: MG
+Tipo: REGIME NORMAL
+CNAE: 0000-0/00
+TOTAL DAS ENTRADAS 1.234.567,89
+DAMEF - SAÍDAS (VALOR CONTÁBIL)
+VENDAS 100.000,00 20.000,00 5.000,00
+TOTAL DAS SAÍDAS 125.000,00
+VAF - EXCLUSÕES VAF
+VAF 42.500,00
