@@ -1,3 +1,5 @@
+> **Consolidated:** the document-conference flow this experiment belongs to now lives in [fiscal-document-automation](https://github.com/nerdylog-code/fiscal-document-automation) — document reading (PDF/XML), fiscal rules, reconciliation against the client spreadsheet and the review workbook. This repository is kept as history.
+
 # DAMEF Report
 
 A local-first Python application that parses text-layer DAMEF fiscal reports and produces a consolidated Excel workbook for review. It demonstrates structured extraction, decimal-safe amount parsing, grouping by company/year, and deterministic reporting.
